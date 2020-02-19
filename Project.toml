@@ -1,0 +1,4 @@
+name = "AppliSQLite"
+uuid = "9e99b7bb-3ece-44ad-9a63-9bee711df7d2"
+authors = ["Rob Bontekoe <rbontekoe@appligate.nl>"]
+version = "0.1.0"
