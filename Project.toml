@@ -2,3 +2,8 @@ name = "AppliSQLite"
 uuid = "9e99b7bb-3ece-44ad-9a63-9bee711df7d2"
 authors = ["Rob Bontekoe <rbontekoe@appligate.nl>"]
 version = "0.1.0"
+
+[deps]
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+Dates = "ade2ca70-3891-5945-98fb-dc099432e06a"
+SQLite = "0aa819cd-b072-5ff4-a722-6bc24af294d9"

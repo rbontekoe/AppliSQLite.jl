@@ -1,5 +1,19 @@
+# main module
+
 module AppliSQLite
 
-greet() = print("Hello World!")
+greet() = print("AppliSQLite")
 
-end # module
+#using SQLite
+
+#using DataFrames
+
+# Domain objects
+#export create
+
+# Database functions
+export connect, archive, store, retrieve, runfunct
+
+include("./infrastructure.jl")
+
+end
